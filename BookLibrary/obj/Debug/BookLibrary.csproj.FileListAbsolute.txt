@@ -1,0 +1,10 @@
+C:\Users\thinh\source\repos\BookLibrary\BookLibrary\bin\Debug\BookLibrary.exe.config
+C:\Users\thinh\source\repos\BookLibrary\BookLibrary\bin\Debug\BookLibrary.exe
+C:\Users\thinh\source\repos\BookLibrary\BookLibrary\bin\Debug\BookLibrary.pdb
+C:\Users\thinh\source\repos\BookLibrary\BookLibrary\obj\Debug\BookLibrary.csproj.AssemblyReference.cache
+C:\Users\thinh\source\repos\BookLibrary\BookLibrary\obj\Debug\BookLibrary.Form1.resources
+C:\Users\thinh\source\repos\BookLibrary\BookLibrary\obj\Debug\BookLibrary.Properties.Resources.resources
+C:\Users\thinh\source\repos\BookLibrary\BookLibrary\obj\Debug\BookLibrary.csproj.GenerateResource.cache
+C:\Users\thinh\source\repos\BookLibrary\BookLibrary\obj\Debug\BookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\thinh\source\repos\BookLibrary\BookLibrary\obj\Debug\BookLibrary.exe
+C:\Users\thinh\source\repos\BookLibrary\BookLibrary\obj\Debug\BookLibrary.pdb
